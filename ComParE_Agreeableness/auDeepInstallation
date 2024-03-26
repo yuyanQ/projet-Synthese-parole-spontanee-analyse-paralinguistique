@@ -1,0 +1,18 @@
+Pour Linux
+dnf install python37 virtualenv 
+virtualenv -p python3.7 audeep_virtualenv
+source audeep_virtualenv/bin/activate
+pip install --upgrade  pip
+pip install auDeep-master/
+pip install 'protobuf<=3.20.1' --force-reinstall
+
+Pour Windows 10
+Installer python 3.7
+pip install virtualenv
+virtualenv -p python3 audeep_virtualenv
+.\audeep_virtualenv\Scripts\activate.bat
+pip install --upgrade  pip
+pip install audeep
+pip install 'protobuf<=3.20.1' --force-reinstall
+copier le parser compare_agreeableness.py dans audeep_virtualenv\Lib\site-packages\audeep\backend\parsers
+activer bash
