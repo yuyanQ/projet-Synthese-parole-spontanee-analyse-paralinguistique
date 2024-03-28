@@ -10,4 +10,4 @@ En somme, il y a 5 fichiers d'origine prononcé par l'humain, 5 fichiers de synt
 
 Un corpus étiquete avec les états paralinguistiques « agréable » et « désagréable » est déjà mis en apprentissage dans la classification.
 
-Ce qui est intéressant, c'est l'installation d'Audeep et la manipulation s'est fait sur Steam Deck avec une machine virtuelle Boxer + Fedora. 
+Ce qui est intéressant, c'est l'installation d'Audeep et la manipulation s'est fait sur Steam Deck avec une machine virtuelle Boxes + Fedora. 
